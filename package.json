@@ -1,0 +1,23 @@
+{
+  "name": "exerc-cio-de-teste-de-api-com-postman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgathaKarenne32/Exerc-cio-de-Teste-de-API-com-Postman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgathaKarenne32/Exerc-cio-de-Teste-de-API-com-Postman/issues"
+  },
+  "homepage": "https://github.com/AgathaKarenne32/Exerc-cio-de-Teste-de-API-com-Postman#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
